@@ -12,7 +12,7 @@ Verb conjugation trainer app currently with only Spanish language functionality.
 
 **[Komik](https://http://development.tiy-komik-2015.divshot.io/)*** (Hackathon)
 Combined group project with Rails and iOS team members. I was one of two front end developers, teamed with [Kelley Rose](http://github.com/krose22). It is a photo editing app using the Canvas element, with props to add a comic feel to images.
-*Technologies: HTML, CSS, Sass, JavaScript, AngularJS, jCanvas, Underscore, User auth, ngCookies, Bourbon, Neat, Divshot*
+*Technologies: HTML, CSS, Sass, JavaScript, AngularJS, jCanvas, Underscore, User auth, ngCookies, Font-Awesome, Bourbon, Neat, Divshot*
 *Terminal: Gulp, NPM, Bower*
 
 **[Trendy](http://jjoyave1.github.io/Trendy-restaurant)***
@@ -36,49 +36,65 @@ A 2-person team project where we first learned to create pull requests, worked w
 
 ## Dynamic Pages - CSS & Javascript
 
-**[Relationship Manager](https://github.com/bholben/Relationship-Manager)*** (HW 19 & 20)
-Angular CRUD app with user authentication and a Parse back end.
-*Technologies: HTML, CSS, Sass, JavaScript, AngularJS, Bootstrap, UI Bootstrap, Font Awesome, Underscore, User auth, cookies, Gravatar, Divshot*
+**[IMGRP](http://development.im-grp.divshot.io/)*** (HW 22)
+*[Repo](https://github.com/jjoyave1/IMGRP)*
+Simple recreation of an image upload site, complete with user login and file/url upload, following basic functionality of imgur.com.
+*Technologies: HTML, CSS, Sass, JavaScript, Angular.js, Angular-Route, Foundation, Font Awesome, Underscore, User auth, Cookies.js, Gravatar, Divshot*
 *Terminal: Gulp, NPM, Bower*
 
-**[ToDo-Backbone Model](https://github.com/bholben/ToDo-Backbone)*** (HW 18)
-First Backbone app - a ToDo list app (re-)built using Backbone models and collections.
-*Technologies: HTML, CSS, Sass, JavaScript, jQuery, Backbone, Divshot*
+**[L1EK](http://development.l1ek.divshot.io/)*** (HW 21)
+*[Repo](https://github.com/jjoyave1/L1EK)*
+A simple like button which counts likes on click.
+*Technologies: HTML, CSS, JavaScript, Angular.js, jQuery, Sass, Underscore, fians/Waves, Materialize, Divshot*
 *Terminal: Gulp, NPM, Bower*
 
-**[ToDo-jQuery](https://github.com/bholben/ToDo-jQuery)*** (HW 17)
-A ToDo list app built with jQuery using TDD/BDD.
-*Technologies: HTML, CSS, JavaScript, jQuery, Sass, Mocha, Chai, Divshot*
+**[Tacts-revisited](http://development.assn-20-contacts.divshot.io/)*** (HW 20)
+*[Repo](https://github.com/jjoyave1/contacts-final)*
+Backbone.js app which gives a contact list with links to contact images pulled from API.
+*Technologies: HTML, CSS, Sass, JavaScript, jQuery, Backbone, HEROKU, Divshot*
+*Terminal: Gulp, NPM, Bower*
+
+**[Tacts](http://development.assn-20-contacts.divshot.io/)*** (HW 19)
+*[Repo](https://github.com/jjoyave1/contacts-initial)*
+A simple contact list app to store basic contact data including social media; first weekend project using Backbone.
+*Technologies: HTML, CSS, JavaScript, Backbone, jQuery, Sass, Bourbon, Neat, Divshot*
 *Terminal: Gulp, NPM, Bower*
 
 **[Poker](https://github.com/bholben/Poker)*** (HW 15)
+*[Repo]()*
 Weekend project - create a game.
 *Technologies: HTML, CSS, JavaScript, jQuery, Sass, Underscore, Bootstrap, Image sprites, Divshot*
 *Terminal: Gulp, NPM, Bower*
 
 **[GitHub](https://github.com/bholben/GitHub)*** (HW 10 & HW 16)
+*[Repo]()*
 A re-creation of my GitHub repo page (Pulling live data from GitHub's API)
 *Technologies: HTML, CSS, JavaScript, jQuery, Sass(SCSS), Bourbon/Neat, Underscore (template), Moment.js*
 *Terminal: Gulp, NPM, Bower*
 
 **[Etsy](https://github.com/bholben/Etsy)*** (HW 9)
+*[Repo]()*
 Re-creation of an Etsy search results page
 *Technologies: HTML, CSS, JavaScript, jQuery, Sass(SCSS)*
 *Terminal: Gulp, NPM, Bower*
 
 **[Caesar Cipher](https://github.com/bholben/Caesar-Cipher)*** (HW 9 bonus)
+*[Repo]()*
 A simple Caesar cipher (ROT13, et al)
 *Technologies: HTML, CSS, JavaScript, jQuery, Chosen (jQuery plugin)*
 
 **[Accordion](https://github.com/bholben/Accordion)** (HW 8)
+*[Repo]()*
 A homemade jQuery accordion
 *Technologies: HTML, CSS, jQuery*
 
 **[Digital Clock](https://github.com/bholben/Digital-Clock)*** (HW 7, part 3)
+*[Repo]()*
 A clock converted to hex values and dynamically adjusting the screen background
 *Technologies: HTML, CSS, JavaScript*
 
 **[Calculator](https://github.com/bholben/Calculator)** (HW 6 & bonus)
+*[Repo]()*
 A calculator mimicking the iOS calculator (portrait view)
 *Technologies: HTML, CSS, Jade, Sass(SASS), JavaScript*
 
@@ -86,14 +102,17 @@ A calculator mimicking the iOS calculator (portrait view)
 ## Page Layout - Straight CSS
 
 **[Surf-Paddle](https://github.com/bholben/Surf-Paddle)*** (HW 3/4 & bonus)
+*[Repo]()*
 A fictitious landing page created to emphasize CSS layout with one responsive breakpoint
 *Technologies: HTML, CSS, Sass(SCSS), Normalize, Responsive*
 
 **[Blueprint](https://github.com/bholben/Blueprint)** (HW 4 bonus)
+*[Repo]()*
 A CSS exercise using floats and positioning
 *Technologies: HTML, CSS, Jade, Sass(SCSS)*
 
 **[Octodex](https://github.com/bholben/Octodex)** (HW 2)
+*[Repo]()*
 A CSS exercise using floats and positioning
 *Technologies: HTML, CSS*
 
