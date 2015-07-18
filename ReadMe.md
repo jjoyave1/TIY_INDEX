@@ -1,7 +1,7 @@
 # IRON YARD INDEX
 *An index of Iron Yard repositories*
 
-The following repos were created during the 12-week front-end engineering bootcamp at The Iron Yard.  They contain various homework assignments and extremely high-paced-output apps.  Some are proof of grasping of the core concept.
+The following repos were created during the 12-week front-end engineering bootcamp at The Iron Yard.  They contain various homework assignments and extremely high-paced-output apps.  Some are proof of grasping of just the core concept, others are in-depth exact replications of given templates or images in order to understand the implementation of certain apps.
 
 ## Group Projects
 
