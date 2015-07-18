@@ -27,7 +27,7 @@ First combined group project with Rails and iOS team members.  A photo identific
 *Terminal: Gulp, NPM, Bower*
 
 
-**[Pair Programming](https://github.com/JamieUdaho/pairprogramming)*** (Pair project - front-end only)
+**[Pair Programming](https://github.com/jjoyave1/pairprogramming)*** (Pair project - front-end only)
 A 2-person team project where we first learned to create pull requests, worked with [Jamie Gamblin](https://avatars3.githubusercontent.com/u/4550796?v=3&s=400).  We also implemented basic constructor and loop functionality in JavaScript.
 *Technologies: HTML, CSS, JavaScript, jQuery, AJAX, Sass(SCSS), Underscore (template), Divshot*
 *APIs: Instagram, Flickr, Google Maps, Internal Server*
@@ -60,22 +60,22 @@ A simple contact list app to store basic contact data including social media; fi
 *Technologies: HTML, CSS, JavaScript, Backbone, jQuery, Sass, Bourbon, Neat, Divshot*
 *Terminal: Gulp, NPM, Bower*
 
-**[Poker](https://github.com/bholben/Poker)*** (HW 15)
-*[Repo]()*
-Weekend project - create a game.
-*Technologies: HTML, CSS, JavaScript, jQuery, Sass, Underscore, Bootstrap, Image sprites, Divshot*
+**[Todo-list prototype](http://development.assignment-15.divshot.io/)*** (HW 16)
+*[Repo](https://github.com/jjoyave1/to-do-list/tree/prototype)*
+A todo-list app using constructors with prototype functions.
+*Technologies: HTML, CSS, JavaScript, jQuery, Sass, Underscore, Handlebars, Divshot*
 *Terminal: Gulp, NPM, Bower*
 
-**[GitHub](https://github.com/bholben/GitHub)*** (HW 10 & HW 16)
-*[Repo]()*
-A re-creation of my GitHub repo page (Pulling live data from GitHub's API)
-*Technologies: HTML, CSS, JavaScript, jQuery, Sass(SCSS), Bourbon/Neat, Underscore (template), Moment.js*
+**[Todo-list initial](http://development.assignment-15.divshot.io/)*** (HW 15)
+*[Repo](https://github.com/jjoyave1/to-do-list)*
+A simple todo-list app using Handlebars.js.
+*Technologies: HTML, CSS, JavaScript, jQuery, Sass, Underscore, Handlebars, Divshot*
 *Terminal: Gulp, NPM, Bower*
 
-**[Etsy](https://github.com/bholben/Etsy)*** (HW 9)
-*[Repo]()*
-Re-creation of an Etsy search results page
-*Technologies: HTML, CSS, JavaScript, jQuery, Sass(SCSS)*
+**[Responsive Blog](http://jjoyave1.github.io/assignment-13)*** (HW 13)
+*[Repo](https://github.com/jjoyave1/responsive-blog)*
+Re-creation of a given page that is responsive, with separate settings for full screen (desk/laptop), tablet, and smartphone view widths.  Also an introduction to Font-Awesome and moment.js.
+*Technologies: HTML, CSS, JavaScript, moment.js, Font-Awesome jQuery, Sass, Bourbon, Neat*
 *Terminal: Gulp, NPM, Bower*
 
 **[Caesar Cipher](https://github.com/bholben/Caesar-Cipher)*** (HW 9 bonus)
@@ -119,16 +119,17 @@ A CSS exercise using floats and positioning
 
 ## JavaScript Exercises
 
-**[JavaScript Koans](https://github.com/bholben/javascript-koans)** (HW 14)
-JavaScript exercises through a testing framework
+**[Test Scripts](https://github.com/tiy-atl-js-q2-2015/Assignments/tree/master/Assignment%2018)** (HW 18)
+Working with Constructors, while testing js files with Mocha syntax.
+*Technologies: JavaScript, Mocha, Chai*
+
+**[JavaScript Koans](https://github.com/jjoyave1/javascript-koans)** (HW 17)
+JavaScript exercises through a testing framework.
 *Technologies: JavaScript*
 
-**[Constructors](https://github.com/bholben/Constructors)** (HW 13)
-Intro to Constructors
-*Technologies: JavaScript*
-
-**[String Library](https://github.com/bholben/String-Library)** (HW 12)
-Practice at creating a library
+**[Constructors](http://jjoyave1.github.io/assignment-14)** (HW 14)
+*[Repo](https://github.com/jjoyave1/constructor-testing)*
+Exercises in which constructors are built with outputs that pass certain test parameters.
 *Technologies: JavaScript*
 
 **[Map-Reduce-Filter](https://github.com/bholben/Map-Reduce-Filter)** (HW 8 bonus)
