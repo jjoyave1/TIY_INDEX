@@ -8,22 +8,26 @@ The following repos were created during the 12-week front-end engineering bootca
 **[Unoverb](http://development.unoverb.divshot.io/#/) (still under development)***
 Verb conjugation trainer app currently with only Spanish language functionality.  3 week project.  I had a partner who built the Rails back end, [Rickard Sunden](http://github.com/sunrick).
 *Technologies: HTML, CSS, AngularJS, JavaScript, jQuery, Underscore, User auth, ngCookies, Angular-Material, Sass, Bourbon, Neat, Divshot*
+
 *Terminal: Gulp (Using [angular template](https://github.com/tiy-atl-js-q2-2015/Template-Angular)), NPM, Bower*
 
 **[Komik](https://http://development.tiy-komik-2015.divshot.io/)*** (Hackathon)
 Combined group project with Rails and iOS team members. I was one of two front end developers, teamed with [Kelley Rose](http://github.com/krose22). It is a photo editing app using the Canvas element, with props to add a comic feel to images.
 *Technologies: HTML, CSS, Sass, JavaScript, AngularJS, jCanvas (jQuery canvas plug-in), Underscore, User auth, ngCookies, Font-Awesome, Bourbon, Neat, Divshot*
+
 *Terminal: Gulp, NPM, Bower*
 
 **[Trendy](http://jjoyave1.github.io/Trendy-restaurant)*** (HW 12)
 Front-end only group project, pared with [Jamie Gamblin](https://avatars3.githubusercontent.com/u/4550796?v=3&s=400).  We created a simple restaurant webpage with Menu, Tabs, and Accordion functionality (following a given set of parameters).
 *Technologies: HTML, CSS, Sass, Bourbon, Neat, jQuery, JavaScript, Underscore, Divshot*
+
 *Terminal: Gulp, NPM, Bower*
 
 **[FwOS](http://development.group-project1-fe.divshot.io/)***
 *[Repo](https://github.com/FrontWhalesOS/FWOS-FrontEnd)*
 First combined group project with Rails and iOS team members.  A photo identification multiple choice game.  I was teamed up with [Nick Leach](https://github.com/nickleach) on the front end side.  In this project, I had to implement our game logic solely through Javascript as opposed to having assistance from the Rails team.
 *Technologies: HTML, CSS, Sass, JavaScript, Backbone, Foundation, Underscore, User auth, Cookies.js, Divshot*
+
 *Terminal: Gulp, NPM, Bower*
 
 
@@ -31,6 +35,7 @@ First combined group project with Rails and iOS team members.  A photo identific
 A 2-person team project where we first learned to create pull requests, worked with [Jamie Gamblin](https://avatars3.githubusercontent.com/u/4550796?v=3&s=400).  We also implemented basic constructor and loop functionality in JavaScript.
 *Technologies: HTML, CSS, JavaScript, jQuery, AJAX, Sass(SCSS), Underscore (template), Divshot*
 *APIs: Instagram, Flickr, Google Maps, Internal Server*
+
 *Terminal: Gulp, NPM, Bower*
 
 
@@ -39,37 +44,43 @@ A 2-person team project where we first learned to create pull requests, worked w
 **[IMGRP](http://development.im-grp.divshot.io/)*** (HW 22)
 *[Repo](https://github.com/jjoyave1/IMGRP)*
 Simple recreation of an image upload site, complete with user login and file/url upload, following basic functionality of imgur.com.
-*Technologies: HTML, CSS, Sass, JavaScript, Angular.js, Angular-Route, Foundation, Font Awesome, Underscore, User auth, Cookies.js, Gravatar, Divshot*
+*Technologies: HTML, CSS, Sass, JavaScript, Angular.js, Angular-Route, Foundation, Font Awesome, Underscore, User auth, Cookies.js, Divshot*
+
 *Terminal: Gulp, NPM, Bower*
 
 **[L1EK](http://development.l1ek.divshot.io/)** (HW 21)
 *[Repo](https://github.com/jjoyave1/L1EK)*
 A simple like button which counts likes on click.
 *Technologies: HTML, CSS, JavaScript, Angular.js, jQuery, Sass, Underscore, fians/Waves, Materialize, Divshot*
+
 *Terminal: Gulp, NPM, Bower*
 
 **[Tacts-revisited](http://development.assn-20-contacts.divshot.io/)*** (HW 20)
 *[Repo](https://github.com/jjoyave1/contacts-final)*
 Backbone.js app which gives a contact list with links to contact images pulled from API.
 *Technologies: HTML, CSS, Sass, JavaScript, jQuery, Backbone, HEROKU, Divshot*
+
 *Terminal: Gulp, NPM, Bower*
 
 **[Tacts](http://development.assn-20-contacts.divshot.io/)*** (HW 19)
 *[Repo](https://github.com/jjoyave1/contacts-initial)*
 A simple contact list app to store basic contact data including social media; first weekend project using Backbone.
 *Technologies: HTML, CSS, JavaScript, Backbone, jQuery, Sass, Bourbon, Neat, Divshot*
+
 *Terminal: Gulp, NPM, Bower*
 
 **[Todo-list prototype](http://development.assignment-15.divshot.io/)*** (HW 16)
 *[Repo](https://github.com/jjoyave1/to-do-list/tree/prototype)*
 A todo-list app using constructors with prototype functions.
 *Technologies: HTML, CSS, JavaScript, jQuery, Sass, Underscore, Handlebars, Divshot*
+
 *Terminal: Gulp, NPM, Bower*
 
 **[Todo-list initial](http://development.assignment-15.divshot.io/)*** (HW 15)
 *[Repo](https://github.com/jjoyave1/to-do-list)*
 A simple todo-list app using Handlebars.js.
 *Technologies: HTML, CSS, JavaScript, jQuery, Sass, Underscore, Handlebars, Divshot*
+
 *Terminal: Gulp, NPM, Bower*
 
 **[Etsy Rebuild](http://jjoyave1.github.io/etsy-page-rebuild)*** (HW 10)
@@ -105,6 +116,7 @@ A fictitious landing page created to emphasize CSS layout.
 *[Repo](https://github.com/jjoyave1/responsive-blog)*
 Re-creation of a given page that is responsive, with separate settings for full screen (desk/laptop), tablet, and smartphone view widths.  Also an introduction to Font-Awesome and moment.js.
 *Technologies: HTML, CSS, JavaScript, moment.js, Font-Awesome jQuery, Sass, Bourbon, Neat*
+
 *Terminal: Gulp, NPM, Bower*
 
 **[Octocats](http://jjoyave1.github.io/octocats)** (HW 2)
