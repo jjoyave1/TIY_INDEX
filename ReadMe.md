@@ -5,17 +5,17 @@ The following repos were created during the 12-week front-end engineering bootca
 
 ## Group Projects
 
-**[Unoverb](http://development.unoverb.divshot.io/#/) (still under development)**
+**[Unoverb](http://development.unoverb.divshot.io/#/) (still under development)***
 Verb conjugation trainer app currently with only Spanish language functionality.  3 week project.  I had a partner who built the Rails back end, [Rickard Sunden](http://github.com/sunrick).
 *Technologies: HTML, CSS, AngularJS, JavaScript, jQuery, Underscore, User auth, ngCookies, Angular-Material, Sass, Bourbon, Neat, Divshot*
 *Terminal: Gulp (Using [angular template](https://github.com/tiy-atl-js-q2-2015/Template-Angular)), NPM, Bower*
 
 **[Komik](https://http://development.tiy-komik-2015.divshot.io/)*** (Hackathon)
 Combined group project with Rails and iOS team members. I was one of two front end developers, teamed with [Kelley Rose](http://github.com/krose22). It is a photo editing app using the Canvas element, with props to add a comic feel to images.
-*Technologies: HTML, CSS, Sass, JavaScript, AngularJS, jCanvas, Underscore, User auth, ngCookies, Font-Awesome, Bourbon, Neat, Divshot*
+*Technologies: HTML, CSS, Sass, JavaScript, AngularJS, jCanvas (jQuery canvas plug-in), Underscore, User auth, ngCookies, Font-Awesome, Bourbon, Neat, Divshot*
 *Terminal: Gulp, NPM, Bower*
 
-**[Trendy](http://jjoyave1.github.io/Trendy-restaurant)***
+**[Trendy](http://jjoyave1.github.io/Trendy-restaurant)*** (HW 12)
 Front-end only group project, pared with [Jamie Gamblin](https://avatars3.githubusercontent.com/u/4550796?v=3&s=400).  We created a simple restaurant webpage with Menu, Tabs, and Accordion functionality (following a given set of parameters).
 *Technologies: HTML, CSS, Sass, Bourbon, Neat, jQuery, JavaScript, Underscore, Divshot*
 *Terminal: Gulp, NPM, Bower*
@@ -27,7 +27,7 @@ First combined group project with Rails and iOS team members.  A photo identific
 *Terminal: Gulp, NPM, Bower*
 
 
-**[Pair Programming](https://github.com/jjoyave1/pairprogramming)*** (Pair project - front-end only)
+**[Pair Programming](https://github.com/jjoyave1/pairprogramming)** (Pair project - front-end only) (HW 11)
 A 2-person team project where we first learned to create pull requests, worked with [Jamie Gamblin](https://avatars3.githubusercontent.com/u/4550796?v=3&s=400).  We also implemented basic constructor and loop functionality in JavaScript.
 *Technologies: HTML, CSS, JavaScript, jQuery, AJAX, Sass(SCSS), Underscore (template), Divshot*
 *APIs: Instagram, Flickr, Google Maps, Internal Server*
@@ -42,7 +42,7 @@ Simple recreation of an image upload site, complete with user login and file/url
 *Technologies: HTML, CSS, Sass, JavaScript, Angular.js, Angular-Route, Foundation, Font Awesome, Underscore, User auth, Cookies.js, Gravatar, Divshot*
 *Terminal: Gulp, NPM, Bower*
 
-**[L1EK](http://development.l1ek.divshot.io/)*** (HW 21)
+**[L1EK](http://development.l1ek.divshot.io/)** (HW 21)
 *[Repo](https://github.com/jjoyave1/L1EK)*
 A simple like button which counts likes on click.
 *Technologies: HTML, CSS, JavaScript, Angular.js, jQuery, Sass, Underscore, fians/Waves, Materialize, Divshot*
@@ -72,48 +72,49 @@ A simple todo-list app using Handlebars.js.
 *Technologies: HTML, CSS, JavaScript, jQuery, Sass, Underscore, Handlebars, Divshot*
 *Terminal: Gulp, NPM, Bower*
 
-**[Responsive Blog](http://jjoyave1.github.io/assignment-13)*** (HW 13)
+**[Responsive Blog](http://jjoyave1.github.io/responsive-blog)*** (HW 13)
 *[Repo](https://github.com/jjoyave1/responsive-blog)*
 Re-creation of a given page that is responsive, with separate settings for full screen (desk/laptop), tablet, and smartphone view widths.  Also an introduction to Font-Awesome and moment.js.
 *Technologies: HTML, CSS, JavaScript, moment.js, Font-Awesome jQuery, Sass, Bourbon, Neat*
 *Terminal: Gulp, NPM, Bower*
 
-**[Caesar Cipher](https://github.com/bholben/Caesar-Cipher)*** (HW 9 bonus)
-*[Repo]()*
+**[Etsy Rebuild](http://jjoyave1.github.io/etsy-page-rebuild)*** (HW 10)
+*[Repo](https://github.com/jjoyave1/etsy-page-rebuild)*
 A simple Caesar cipher (ROT13, et al)
-*Technologies: HTML, CSS, JavaScript, jQuery, Chosen (jQuery plugin)*
+*Technologies: HTML, CSS, JavaScript, jQuery*
 
-**[Accordion](https://github.com/bholben/Accordion)** (HW 8)
-*[Repo]()*
-A homemade jQuery accordion
+**[Accordion](http://jjoyave1.github.io/accordion-project)** (HW 9)
+*[Repo](https://github.com/jjoyave1/accordion-project/tree/master)*
+A first look at building a jQuery accordion.
 *Technologies: HTML, CSS, jQuery*
 
-**[Digital Clock](https://github.com/bholben/Digital-Clock)*** (HW 7, part 3)
-*[Repo]()*
+**[Digital Clock](http://jjoyave1.github.io/clock-project-hm)*** (HW 8 Bonus)
+**[Standard Digital Clock](http://jjoyave1.github.io/Clock-project)*** (HW 8)
+*[Repo](https://github.com/jjoyave1/clock-project-hm)*
 A clock converted to hex values and dynamically adjusting the screen background
 *Technologies: HTML, CSS, JavaScript*
 
-**[Calculator](https://github.com/bholben/Calculator)** (HW 6 & bonus)
-*[Repo]()*
+**[Calculator](http://jjoyave1.github.io/basic-calculator)** (HW 6 & bonus)
+*[Repo](https://github.com/jjoyave1/basic-calculator)*
 A calculator mimicking the iOS calculator (portrait view)
-*Technologies: HTML, CSS, Jade, Sass(SASS), JavaScript*
+*Technologies: HTML, CSS, Sass(SASS), JavaScript*
 
 
 ## Page Layout - Straight CSS
 
-**[Surf-Paddle](https://github.com/bholben/Surf-Paddle)*** (HW 3/4 & bonus)
-*[Repo]()*
-A fictitious landing page created to emphasize CSS layout with one responsive breakpoint
-*Technologies: HTML, CSS, Sass(SCSS), Normalize, Responsive*
+**[Surf-Paddle](http://jjoyave1.github.io/surf-paddle-proj)*** (HW 3 & bonus)
+*[Repo](https://github.com/jjoyave1/surf-paddle-proj)*
+A fictitious landing page created to emphasize CSS layout.
+*Technologies: HTML, CSS, Sass(SCSS), Normalize*
 
 **[Blueprint](https://github.com/bholben/Blueprint)** (HW 4 bonus)
 *[Repo]()*
 A CSS exercise using floats and positioning
 *Technologies: HTML, CSS, Jade, Sass(SCSS)*
 
-**[Octodex](https://github.com/bholben/Octodex)** (HW 2)
-*[Repo]()*
-A CSS exercise using floats and positioning
+**[Octocats](http://jjoyave1.github.io/octocats)** (HW 2)
+*[Repo](https://github.com/jjoyave1/octocats)*
+A CSS exercise using floats and positioning, following a given template.
 *Technologies: HTML, CSS*
 
 
@@ -132,11 +133,11 @@ JavaScript exercises through a testing framework.
 Exercises in which constructors are built with outputs that pass certain test parameters.
 *Technologies: JavaScript*
 
-**[Map-Reduce-Filter](https://github.com/bholben/Map-Reduce-Filter)** (HW 8 bonus)
-Practice at re-writing the builtin looping functions using only a for loop
+**[Map-Reduce-Filter](https://github.com/jjoyave1/js-array-rebuild/blob/master/main.js)** (HW 9 Bonus)
+Practice at re-writing the builtin looping functions using only a for loop.
 *Technologies: JavaScript*
 
-**[Etsy-Data-Parsing](https://github.com/bholben/Etsy-Data-Parsing)*** (HW 7, part 1)
+**[Etsy-Data-Parsing](http://jjoyave1.github.io/JS-Etsy/)*** (HW 7)
 Loop through array of data objects pulled from Etsy's API
 *Technologies: JavaScript*
 
