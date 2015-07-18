@@ -72,12 +72,6 @@ A simple todo-list app using Handlebars.js.
 *Technologies: HTML, CSS, JavaScript, jQuery, Sass, Underscore, Handlebars, Divshot*
 *Terminal: Gulp, NPM, Bower*
 
-**[Responsive Blog](http://jjoyave1.github.io/responsive-blog)*** (HW 13)
-*[Repo](https://github.com/jjoyave1/responsive-blog)*
-Re-creation of a given page that is responsive, with separate settings for full screen (desk/laptop), tablet, and smartphone view widths.  Also an introduction to Font-Awesome and moment.js.
-*Technologies: HTML, CSS, JavaScript, moment.js, Font-Awesome jQuery, Sass, Bourbon, Neat*
-*Terminal: Gulp, NPM, Bower*
-
 **[Etsy Rebuild](http://jjoyave1.github.io/etsy-page-rebuild)*** (HW 10)
 *[Repo](https://github.com/jjoyave1/etsy-page-rebuild)*
 A simple Caesar cipher (ROT13, et al)
@@ -107,10 +101,11 @@ A calculator mimicking the iOS calculator (portrait view)
 A fictitious landing page created to emphasize CSS layout.
 *Technologies: HTML, CSS, Sass(SCSS), Normalize*
 
-**[Blueprint](https://github.com/bholben/Blueprint)** (HW 4 bonus)
-*[Repo]()*
-A CSS exercise using floats and positioning
-*Technologies: HTML, CSS, Jade, Sass(SCSS)*
+**[Responsive Blog](http://jjoyave1.github.io/responsive-blog)*** (HW 13)
+*[Repo](https://github.com/jjoyave1/responsive-blog)*
+Re-creation of a given page that is responsive, with separate settings for full screen (desk/laptop), tablet, and smartphone view widths.  Also an introduction to Font-Awesome and moment.js.
+*Technologies: HTML, CSS, JavaScript, moment.js, Font-Awesome jQuery, Sass, Bourbon, Neat*
+*Terminal: Gulp, NPM, Bower*
 
 **[Octocats](http://jjoyave1.github.io/octocats)** (HW 2)
 *[Repo](https://github.com/jjoyave1/octocats)*
@@ -141,12 +136,12 @@ Practice at re-writing the builtin looping functions using only a for loop.
 Loop through array of data objects pulled from Etsy's API
 *Technologies: JavaScript*
 
-**[Ten Simple Javascript Exercises](https://github.com/bholben/Ten-Simple-Javascript-Exercises)*** (HW 7, part 2)
-Fun little exercises
+**[Ten Simple Javascript Exercises](https://github.com/jjoyave1/ten-simple-js-functions)*** (HW 6)
+Ten exercises in JS where functions are created to match desired input/output
 *Technologies: JavaScript*
 
-**[JS Intro](https://github.com/bholben/JS-Intro)** (HW 5)
-Real basic variable assignment stuff
+**[JS Intro](hhttps://github.com/jjoyave1/JS-Intro)** (HW 4)
+Real basic variable assignment
 *Technologies: JavaScript*
 
 *Part of a multi-day / weekend assignment
