@@ -5,7 +5,7 @@ The following repos were created during the 12-week front-end engineering bootca
 
 ## Group Projects
 
-**[Unoverb](http://development.unoverb.divshot.io/#/) (still under development)***
+**[Unoverb](http://development.unoverb.divshot.io/#/) (FINAL, ongoing)***
 Verb conjugation trainer app currently with only Spanish language functionality.  3 week project.  I had a partner who built the Rails back end, [Rickard Sunden](http://github.com/sunrick).
 
 *Technologies: HTML, CSS, AngularJS, JavaScript, jQuery, Underscore, User auth, ngCookies, Angular-Material, Sass, Bourbon, Neat, Divshot*
