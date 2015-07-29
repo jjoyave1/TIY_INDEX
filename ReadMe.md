@@ -3,6 +3,11 @@
 
 The following repos were created during the 12-week front-end engineering bootcamp at The Iron Yard.  They contain various homework assignments and extremely high-paced-output apps.  Some are proof of grasping of just the core concept, others are in-depth exact replications of given templates or images in order to understand the implementation of certain apps.
 
+
+## Portfolio Site
+**[MyPage](http://development.jjoyave.divshot.io/)**
+This is my portfolio page, just showing off some parallax and neat CSS features, with links to my blog, twitter, github, and linkedin.
+
 ## Group Projects
 
 **[Unoverb](http://development.unoverb.divshot.io/#/) (FINAL, ongoing)***
