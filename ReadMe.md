@@ -98,6 +98,12 @@ A simple todo-list app using Handlebars.js.
 
 *Terminal: Gulp, NPM, Bower*
 
+**[Todo-list in Ember](https://github.com/jjoyave1/ember-cli-todo)**
+*[Repo](https://github.com/jjoyave1/ember-cli-todo)*
+A todo list run through to teach myself ember.  See the repo for a link to the tutorial.
+
+*Technologies: Handlebars, HTML, CSS, JavaScript, jQuery, EmberJS*
+
 **[Etsy Rebuild](http://jjoyave1.github.io/etsy-page-rebuild)*** (HW 10)
 *[Repo](https://github.com/jjoyave1/etsy-page-rebuild)*
 A simple Caesar cipher (ROT13, et al)
