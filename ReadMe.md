@@ -5,19 +5,22 @@ The following repos were created during the 12-week front-end engineering bootca
 
 
 ## Portfolio Site
-**[MyPage](http://development.jjoyave.divshot.io/)**
+**[MyPage](http://jjoyave1.github.io/portfolio-page/app/index.html)**
 This is my portfolio page, just showing off some parallax and neat CSS features, with links to my blog, twitter, github, and linkedin.
 
 ## Group Projects
 
 **[Unoverb](http://development.unoverb.divshot.io/#/) (FINAL, ongoing)***
+
+*Back end currently down*
+
 Verb conjugation trainer app currently with only Spanish language functionality.  3 week project.  I had a partner who built the Rails back end, [Rickard Sunden](http://github.com/sunrick).
 
 *Technologies: HTML, CSS, AngularJS, JavaScript, jQuery, Underscore, User auth, ngCookies, Angular-Material, Sass, Bourbon, Neat, Divshot*
 
 *Terminal: Gulp (Using [angular template](https://github.com/tiy-atl-js-q2-2015/Template-Angular)), NPM, Bower*
 
-**[Komik](https://http://development.tiy-komik-2015.divshot.io/)*** (Hackathon)
+**[Komik](http://jjoyave1.github.io/FEkomik/app/index.html)*** (Hackathon)
 Combined group project with Rails and iOS team members. I was one of two front end developers, teamed with [Kelley Rose](http://github.com/krose22). It is a photo editing app using the Canvas element, with props to add a comic feel to images.
 
 *Technologies: HTML, CSS, Sass, JavaScript, AngularJS, jCanvas (jQuery canvas plug-in), Underscore, User auth, ngCookies, Font-Awesome, Bourbon, Neat, Divshot*
@@ -31,7 +34,7 @@ Front-end only group project, pared with [Jamie Gamblin](https://avatars3.github
 
 *Terminal: Gulp, NPM, Bower*
 
-**[FwOS](http://development.group-project1-fe.divshot.io/)***
+**[FwOS](http://jjoyave1.github.io/FWOS-FrontEnd/app/index.html)***
 *[Repo](https://github.com/FrontWhalesOS/FWOS-FrontEnd)*
 First combined group project with Rails and iOS team members.  A photo identification multiple choice game.  I was teamed up with [Nick Leach](https://github.com/nickleach) on the front end side.  In this project, I had to implement our game logic solely through Javascript as opposed to having assistance from the Rails team.
 
@@ -50,7 +53,7 @@ A 2-person team project where we first learned to create pull requests, worked w
 
 ## Dynamic Pages - CSS & Javascript
 
-**[IMGRP](http://development.im-grp.divshot.io/)*** (HW 22)
+**[IMGRP](http://jjoyave1.github.io/IMGRP/app/index.html)*** (HW 22)
 *[Repo](https://github.com/jjoyave1/IMGRP)*
 Simple recreation of an image upload site, complete with user login and file/url upload, following basic functionality of imgur.com.
 
@@ -58,7 +61,7 @@ Simple recreation of an image upload site, complete with user login and file/url
 
 *Terminal: Gulp, NPM, Bower*
 
-**[L1EK](http://development.l1ek.divshot.io/)** (HW 21)
+**[L1EK](http://jjoyave1.github.io/L1EK/app/index.html)** (HW 21)
 *[Repo](https://github.com/jjoyave1/L1EK)*
 A simple like button which counts likes on click.
 
@@ -66,7 +69,7 @@ A simple like button which counts likes on click.
 
 *Terminal: Gulp, NPM, Bower*
 
-**[Tacts-revisited](http://development.assn-20-contacts.divshot.io/)*** (HW 20)
+**[Tacts-revisited](http://jjoyave1.github.io/contacts-final/app/index.html)*** (HW 20)
 *[Repo](https://github.com/jjoyave1/contacts-final)*
 Backbone.js app which gives a contact list with links to contact images pulled from API.
 
@@ -74,7 +77,7 @@ Backbone.js app which gives a contact list with links to contact images pulled f
 
 *Terminal: Gulp, NPM, Bower*
 
-**[Tacts](http://development.assn-20-contacts.divshot.io/)*** (HW 19)
+**[Tacts](http://jjoyave1.github.io/contacts-initial/app/index.html)*** (HW 19)
 *[Repo](https://github.com/jjoyave1/contacts-initial)*
 A simple contact list app to store basic contact data including social media; first weekend project using Backbone.
 
@@ -82,7 +85,7 @@ A simple contact list app to store basic contact data including social media; fi
 
 *Terminal: Gulp, NPM, Bower*
 
-**[Todo-list prototype](http://development.assignment-15.divshot.io/)*** (HW 16)
+**[Todo-list prototype](http://jjoyave1.github.io/to-do-list/app/index.html)*** (HW 16)
 *[Repo](https://github.com/jjoyave1/to-do-list/tree/prototype)*
 A todo-list app using constructors with prototype functions.
 
@@ -90,7 +93,7 @@ A todo-list app using constructors with prototype functions.
 
 *Terminal: Gulp, NPM, Bower*
 
-**[Todo-list initial](http://development.assignment-15.divshot.io/)*** (HW 15)
+**[Todo-list initial](http://jjoyave1.github.io/to-do-list/app/index.html)*** (HW 15)
 *[Repo](https://github.com/jjoyave1/to-do-list)*
 A simple todo-list app using Handlebars.js.
 
